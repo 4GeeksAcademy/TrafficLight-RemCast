@@ -1,0 +1,12 @@
+.carousel{
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    overflow-x: scroll;
+}
+.card-img-top {
+    width: 100%;
+    height: auto;
+    display: block;
+    position: absolute;
+    }
